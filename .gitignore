@@ -1,0 +1,11 @@
+data/
+papers/
+docs/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+__pycache__/
+*.py[cod]
+*$py.class
