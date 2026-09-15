@@ -1,0 +1,3 @@
+[submodule "model_training"]
+	path = model_training
+	url = https://github.com/0xwvrn/atcs_detection.git
