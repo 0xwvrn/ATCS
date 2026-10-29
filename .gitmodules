@@ -4,3 +4,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/0xwvrn/atcs_firmware.git
+[submodule "controller"]
+	path = controller
+	url = https://github.com/0xwvrn/atcs_controller.git
